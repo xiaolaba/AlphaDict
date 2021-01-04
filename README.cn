@@ -33,10 +33,10 @@ Alpha词典在"GNU GENERAL PUBLIC LICENSE, version 3 (GPLv3)" 许可证下发布
   2) boost: "http://www.boost.org/"
   3) sqlite: "https://www.sqlite.org"
 
-ubuntu14.04: 
-    sudo apt-get install libboost1.55-dev libboost-filesystem1.55-dev qtbase5-dev 
-        libqt5x11extras5-dev libsqlite3-dev
-
+ubuntu14.04:
+```
+sudo apt-get install libboost1.55-dev libboost-filesystem1.55-dev qtbase5-dev libqt5x11extras5-dev libsqlite3-dev
+```
 
 如何编译
 =======
