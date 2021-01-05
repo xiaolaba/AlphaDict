@@ -82,8 +82,10 @@ $ make uitr
 
 
 
+How to Compile
+==============
 
-windows
+# windows
 -------
 # VS2010 #
 . Install qt-opensource-windows-x86-msvc2010_opengl-5.3.0.exe
