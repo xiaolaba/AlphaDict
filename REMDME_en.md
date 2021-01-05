@@ -43,6 +43,7 @@ sudo apt-get install libboost1.55-dev libboost-filesystem1.55-dev  qtbase5-dev l
 ### ubuntu20.04: (xiaolaba, 2021-JAN-04)
 ```
 sudo apt-get install libboost1.65-dev libboost-filesystem1.65-dev qtbase5-dev libqt5x11extras5-dev libsqlite3-dev
+git clone https://github.com/xiaolaba/AlphaDict
 ```
 
 
