@@ -75,6 +75,12 @@ $ make uitr
   make muti-language.
 ```   
 
+### make error
+![alphadict_make_error.JPG](alphadict_make_error.JPG)  
+
+
+
+
 windows
 -------
 # VS2010 #
