@@ -37,4 +37,8 @@ $ make uitr
 ![alphadict_config_ok.JPG](alphadict_config_ok.JPG)  
 ### make error
 ![alphadict_make_error.JPG](alphadict_make_error.JPG)  
+see the original author and the fix, https://github.com/kartorz/AlphaDict/issues/3
+
+### done and success (2023-MAY-13)
+![goodjob.PNG](goodjob.PNG)
 
