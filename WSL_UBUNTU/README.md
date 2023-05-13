@@ -22,7 +22,7 @@ $ ./configure --help
 
 $ make 
 
-$ make install
+$ sudo make install
 
 $ AlphaDict
   Now, You can enjoy 'AlphaDict'. 
